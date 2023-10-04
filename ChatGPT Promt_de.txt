@@ -1,0 +1,21 @@
+Wir haben ein VR-Studie mit drei Studententeilnehmern durchgeführt, in der sie gemeinsam eine virtuelle WG einrichten mussten. In diesem Szenario hatte jeder Teilnehmer jeweils eine spezifische Einschränkungen, wobei diese nicht über diese vorab informiert wurden, sondern wenn überhaupt selbst herausfinden mussten: Sehbeeinträchtigungen, Hörbeeinträchtigungen oder Einschränkungen bei der Interaktion (Keine Objekte bewegen). Nach dem Experiment haben wir die sprachlichen Austausche zwischen den Teilnehmern transkribiert und möchten nun den Inhalt ihrer Gespräche zu Forschungszwecken untersuchen.
+
+Unsere Methodik beinhaltet den Vergleich jedes Satzes mit thematischen Referenzsätzen unter Verwendung von Satz-Embeddings. Daher bitten wir um die Erstellung von 10 Beispielsätzen für jede der folgenden thematischen Instanzen:
+
+1. Szenario-bezogen (WG-Einrichtung): Sätze, die sich um die Einrichtung einer gemeinsamen Wohnung in VR drehen, einschließlich Fragen, Anweisungen und Beschreibungen im Zusammenhang mit der Aufgabe der Wohnungseinrichtung.
+
+2. Smalltalk-bezogen: Sätze, die informelle Gespräche, Begrüßungen und nicht auf die Aufgabe bezogene Plaudereien widerspiegeln, die die Studenten während des VR-Experiments führen könnten.
+
+3. VR-bezogen: Sätze, die die VR-Technologie betreffen, die verwendet wird, deren Funktionalität oder Auswirkungen auf die Erfahrung der Teilnehmer.
+
+4. Seh-Einschränkungen: Sätze, die sich mit den Herausforderungen und Einschränkungen der Teilnehmer mit Sehbehinderungen befassen, einschließlich ihrer Schwierigkeiten beim Wahrnehmen von Objekten in der VR.
+
+5. Hör-Einschränkungen: Sätze, die sich auf die Erfahrungen und Hindernisse der Teilnehmer mit Hörbeeinträchtigungen konzentrieren, wie etwa verzerrter Ton oder Kommunikationsprobleme.
+
+6. Interaktions-Einschränkungen: Sätze, die die Schwierigkeiten der Teilnehmer ansprechen, die in der VR-Umgebung keine Objekte greifen können, einschließlich ihrer Frustrationen und Versuche, die Einschränkungen zu überwinden.
+
+7. Ganz Off-Topic: Sätze, die nicht im Zusammenhang mit dem VR-Experiment, der Wohnungseinrichtung oder den Einschränkungen der Teilnehmer stehen, wie zufällige Gedanken, nicht verwandte Themen oder nicht relevante Fragen.
+
+
+Die Beispielsätze sollten eine Mischung aus Anfragen, allgemeinen Aussagen und erklärenden/zusätzlichen Details sein.
+Und die Überlappung der verschiedenen thematischen Instanzen sollte möglichst minimal sein.

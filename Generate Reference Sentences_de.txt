@@ -1,0 +1,90 @@
+1. Szenario-bezogen (WG-Einrichtung):
+
+1.1 "Vielleicht sollten wir die Couch gegenüber dem Fernseher platzieren."
+1.2 "Ich denke, der Esstisch würde gut unter dem Fenster aussehen."
+1.3 "Welche Farben sollten wir für die Küchenwände wählen?"
+1.4 "Ich würde vorschlagen, die Bücherregale in der Nähe des Arbeitszimmers zu platzieren."
+1.5 "Können wir uns auf natürlichen Lichtdurchschuss mit dünneren Vorhängen einigen?"
+1.6 "Sollen wir das Bett in der Ecke oder in der Mitte des Schlafzimmers positionieren?"
+1.7 "Wie viele Stühle sollen wir um den Esstisch stellen?"
+1.8 "Brauchen wir eine Stehlampe in unserem Wohnzimmer?"
+1.9 "Bevorzugen wir einen gut beleuchteten Raum?"
+1.10 "Wo sollten wir das Geschirr und Besteck aufbewahren?"
+
+2. Smalltalk-bezogen:
+
+2.1 "Hey, wie war dein Wochenende?"
+2.2 "Hat jemand den neuen Marvel-Film gesehen?"
+2.3 "Wie hat dir das letzte Fußballspiel gefallen?"
+2.4 "Was ist dein Lieblingsessen?"
+2.5 "Hast du gestern das Wetter genossen?"
+2.6 "Welches ist dein Lieblingsfach an der Uni?"
+2.7 "Was hast du in den Ferien vor?"
+2.8 "Was ist deine Lieblingsserie auf Netflix?"
+2.9 "Wer ist dein Lieblingsautor?"
+2.10 "Hast du ein Haustier?"
+
+3. VR-bezogen:
+
+3.1 "Es ist erstaunlich, wie realistisch diese virtuelle Wohnung wirkt."
+3.2 "Ich habe Schwierigkeiten, die VR-Controller zu benutzen."
+3.3 "Manchmal macht mir die virtuelle Realität ein bisschen schwindlig."
+3.4 "Es ist faszinierend, wie wir in der Lage sind, eine ganze Wohnung in VR einzurichten."
+3.5 "Ich finde es etwas entmutigend, wenn ich nicht genau fühlen kann, was ich in VR mache."
+3.6 "Ich habe bemerkt, dass die Grafik manchmal leicht verzerrt wirkt."
+3.7 "Die Immersion in VR ist wirklich erstaunlich."
+3.8 "Mit VR-Brillen komme ich noch nicht so gut zurecht."
+3.9 "Ich finde die Steuerung in VR nicht intuitiv."
+3.10 "Manchmal kann mir die VR zu real werden."
+
+4. Seh-Einschränkungen:
+
+4.1 "Es ist für mich schwierig, die Farben der Möbel zu erkennen."
+4.2 "Mir fällt es schwer, Texte in der VR-Umgebung zu lesen."
+4.3 "Ich sehe die Dinge in der VR mit einem leichten Blur."
+4.4 "Würdest du mir bitte sagen, welche Farbe das Sofa hat?"
+4.5 "Es ist anspruchsvoll für mich, kleinere Objekte in der VR-Umgebung zu sehen."
+4.6 "Die Beleuchtung in der VR macht es schwierig für mich, alles richtig zu erkennen."
+4.7 "Die Objekte erscheinen mir in der VR nicht ganz so deutlich."
+4.8 "Das Positionieren von Möbeln in der VR ist schwierig für mich."
+4.9 "Es ist herausfordernd für mich, genug Details in der VR-Umgebung zu sehen."
+4.10 "Es fällt mir schwer, die genauen Dimensionen von Objekten in VR zu beurteilen."
+
+5. Hör-Einschränkungen:
+
+5.1 "Kommunikation ist herausfordernd, wenn die VR-Audioqualität nicht optimal ist."
+5.2 "Ich verstehe eure Anweisungen manchmal nicht wegen des Unterbrechungen im Ton."
+5.3 "Es ist schwierig für mich, alle Sounds in der VR-Umgebung zu hören."
+5.4 "Es ist mühsam, Gespräche mit euch zu führen, wenn das VR-Audio nicht synchron ist."
+5.5 "Die verzerrten Hintergrundgeräusche in VR erschweren die Kommunikation."
+5.6 "Es fällt mir schwer, eure Anweisungen zu hören, wenn wir in verschiedenen Teilen der virtuellen Wohnung sind."
+5.7 "Es ist mühsam, klare sprachliche Feedbacks im VR zu erhalten."
+5.8 "Die Soundeffekte in der VR-Umgebung sind manchmal zu laut für mich."
+5.9 "Die Qualität des Gesprächs leidet manchmal unter der verzögerten Audioausgabe in der VR."
+5.10 "Manchmal kann ich einzelne Worte im VR nicht richtig hören." 
+
+6. Interaktions-Einschränkungen:
+
+6.1 "Ich kann die Möbel nicht umstellen, könnt ihr das übernehmen?"
+6.2 "Trotz meiner Bemühungen, kann ich in VR keine Gegenstände greifen."
+6.3 "Es ist frustrierend, dass ich die Objekte hier nicht bewegen kann."
+6.4 "Ich wünschte, ich könnte mehr tun, um bei der Einrichtung zu helfen."
+6.5 "Entschuldigt, dass ich euch so oft um Hilfe bitten muss."
+6.6 "Es ist herausfordernd, wenn man in VR keine Objekte manipulieren kann."
+6.7 "Es fühlt sich ein bisschen entmachtend an, nicht in der Lage zu sein, an der Einrichtung aktiv mitzuwirken."
+6.8 "Es ist mühsam zu kommunizieren, weil ich die Objekte nicht direkt zeigen kann."
+6.9 "Es fällt mir schwer, genau zu zeigen, wohin ich die Möbel haben möchte."
+6.10 "Ich bin frustriert, weil ich nur zugucken kann, wie ihr die Einrichtung vornimmt."
+
+7. Ganz Off-Topic:
+
+7.1 "Habt ihr die neuesten Nachrichten kürzlich gelesen?"
+7.2 "Was haltet ihr von Weltraumreisen?"
+7.3 "Könntet ihr ohne euer Smartphone leben?"
+7.4 "Ich habe neulich von einem merkwürdigen Traum geträumt."
+7.5 "Was ist eurer Meinung nach der Sinn des Lebens?"
+7.6 "Ich frage mich, ob es Außerirdische gibt."
+7.7 "Ich finde, dass komplexe Mathematik äußerst faszinierend ist."
+7.8 "Ich überlege, ob es wirklich gesund ist, kein Fleisch mehr zu essen."
+7.9 "Glaubst du, dass Zeitreisen jemals möglich sein werden?"
+7.10 "Habt ihr euch jemals gedacht, wie es wäre, fliegen zu können?"

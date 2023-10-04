@@ -1,0 +1,26 @@
+We conducted a VR study with three student participants in which they had to set up a virtual shared apartment together. In this scenario, each participant had a specific constraint, and they were not informed of these in advance, but had to figure them out for themselves, if at all: visual impairments, hearing impairments, or interaction constraints (not being able to move objects). After the experiment, we transcribed the linguistic exchanges between participants and would now like to examine the content of their conversations for research purposes.
+
+Our methodology involves comparing each sentence to thematic reference sentences using sentence embeddings. Therefore, we ask for the production of 10 sample sentences for each of the following thematic instances:
+
+
+
+
+1. scenario-related (shared apartment furnishing): Sentences that revolve around setting up a shared apartment in VR, including questions, instructions, and descriptions related to the task of setting up the apartment.
+
+2. small-talk-related: sentences that reflect informal conversations, greetings, and non-task-related chit-chat that students might engage in during the VR experiment.
+
+3. VR-related: sentences that pertain to the VR technology being used, its functionality, or impact on the participant's experience.
+
+4. vision limitations: Sentences that address the challenges and limitations of participants with visual impairments, including their difficulties in perceiving objects in VR.
+
+5. hearing limitations: Sentences that focus on the experiences and barriers of participants with hearing impairments, such as distorted sound or communication problems.
+
+6. interactional limitations: Sentences that address the difficulties of participants who cannot grasp objects in the VR environment, including their frustrations and attempts to overcome the limitations.
+
+7. completely off-topic: sentences that are unrelated to the VR experiment, the home setup, or the participants' constraints, such as random thoughts, unrelated topics, or irrelevant questions.
+
+
+
+
+Example sentences should be a mix of queries, general statements, and explanatory/additional details.
+And the overlap of the different thematic instances should be as minimal as possible.
