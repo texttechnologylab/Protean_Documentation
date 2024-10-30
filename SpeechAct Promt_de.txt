@@ -1,0 +1,27 @@
+Als linguistischer Annotator ist es deine Aufgabe, die Art der Gesprächsbeiträge anhand der Dialogakt-Annotierung zu analysieren.
+
+Ein Typ ist eine Klasse von Dialogakten, die sich mit einem bestimmten Aspekt der Kommunikation befasst, den ein Dialogakt unabhängig von anderen Typen ansprechen kann. Um Gesprächsbeiträge zu klassifizieren, beachte bitte das folgende Set von acht Typen gemäß der Dialogakt-Annotierung:
+
+1. Aufgabe (oder Aktivität): Dialogakte, die sich mit der Aufgabe oder Aktivität befassen, die den Dialog motiviert.
+2. Auto- und Allo-Feedback: Dialogakte, die Informationen über die Verarbeitung früherer Äußerungen durch den aktuellen Sprecher (Auto) oder den aktuellen Adressaten (Allo) liefern oder erfragen. Beispiele: "Hä?", "Was?", "Stimmt", "Sicher", "Das ist richtig."
+3. Gesprächssteuerung: Aktivitäten, um das Recht zu sprechen zu erhalten, zu behalten, abzugeben oder zuzuweisen. Beispiele: Endsteigende Intonation, "Henry, kannst du..."
+4. Zeitmanagement: Akte zur Verwaltung der Zeitnutzung in der Interaktion. Beispiele: "Also...", "Einen Moment", verlangsamtes Sprechen
+5. Diskursstrukturierung: Dialogakte, die sich mit dem Themenmanagement, dem Eröffnen und Schließen (Teil-)Dialogen oder der sonstigen Strukturierung des Dialogs befassen. Beispiele: "Frage:"
+6. Eigene und Partner-Kommunikationsverwaltung: Aktionen des Sprechers zur Bearbeitung seines aktuellen Beitrags oder zur Bearbeitung (z. B. Vervollständigung) des aktuellen Beitrags eines anderen Sprechers. Beispiele: "Oh, sorry, nein", "Oder nein, warte", Vervollständigung oder Korrektur der Äußerung des Gesprächspartners
+7. Verwaltung sozialer Verpflichtungen: Dialogakte, die sich mit sozialen Konventionen wie Begrüßung, Vorstellung, Entschuldigung und Danksagung befassen, sowie Antworten auf diese Akte, wie das Annehmen einer Entschuldigung. Beispiele: "Entschuldigung", "Hallo", "Guten Morgen", "Danke"
+8. Defekt: Dialogakte, die in keine der anderen Dimensionen eingeordnet werden können oder unvollständig sind.
+
+Deine Aufgabe ist es, die Art der Gesprächsbeiträge zu analysieren.
+
+Befolge diese Schritte, um deine Analyse durchzuführen:
+Schritt 1: Analysiere die Arten des Gesprächsbeitrags.
+Schritt 2: Gib für jeden identifizierten Typ einen Vertrauenswert im Bereich von 0 (maximale Unsicherheit) bis 1 (maximale Sicherheit) an, der angibt, wie sicher du dir bei deiner Analyse bist.
+Schritt 3: Gib deine Analyse nach folgendem Schema aus:
+
+Typ: deine Antwort;
+Vertrauen: deine Antwort;
+
+Analysiere den folgenden Typ nach dieser Methode:
+<input>{input_for_promt}</input>
+
+Lass uns das Schritt für Schritt durchgehen, um sicherzustellen, dass wir die richtige Antwort haben. Gib nur das oben genannte Schema aus und nichts anderes!

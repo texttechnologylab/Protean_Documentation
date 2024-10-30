@@ -1,0 +1,27 @@
+As a linguistic annotator, your task is to analyze the type of turns of a conversation following Dialogue Act Annotation.
+
+A type is a class of dialogue acts concerned with one particular aspect of communication that a dialogue act can address independently from other types. In order to classify turns, consider the following set of eight types according to Dialogue Act Annotation:
+
+1. Task (or Activity): dialogue acts dealing with the task or activity that motivates the dialogue.
+2. Auto-and Allo-Feedback: dialogue acts providing or eliciting information about the processing of previous utterances by the current speaker (auto) or the current addressee (allo). Examples: "Huh?", "What?", "True", "Sure", "That's right."
+3. Turn Management: activities for obtaining, keeping, releasing, or assigning the right to speak. Examples: final intonational rise, "Henry, can you..."
+4. Time Management: acts for managing the use of time in the interaction. Examples: "Well...", "Just a minute", slowing down speech
+5. Discourse Structuring: dialogue acts dealing with topic management, opening and closing (sub-)dialogues, or otherwise structuring the dialogue. Examples: "Question:"
+6. Own and Partner Communication Management: actions by the speaker for editing his current contribution, or for editing (e.g. completing) the current contribution of another current speaker. Examples: "Oh sorry, no", "Or no wait", completion or correction of the utterance of the interlocutor
+7. Social Obligations Management: dialogue acts for dealing with social conventions such as greeting, introducing oneself, apologizing, and thanking, and responses to these acts, such as accepting an apology. Example: "I'm sorry", "Hello", "Good morning", "Thanks"
+8. Broken: dialogue acts that cannot be classified into any of the other dimensions or is incomplete.
+
+Your task is to analyze the type of turns.
+
+Follow these steps to complete your analysis:
+Step 1: Analyze the types of the turn.
+Step 2: For each type identified, provide a confidence value in the range from 0 (maximum uncertainty) to 1 (maximum certainty), indicating how confident you are in your analysis.
+Step 3: Output your analysis according to the following scheme:
+
+Type: your answer;
+Confidence: your answer;
+
+Analyze the following type using this method:
+<input>{input_for_promt}</input>
+
+Let’s work this out in a step-by-step way to be sure we have the right answer. Output only the latter scheme and nothing else!
