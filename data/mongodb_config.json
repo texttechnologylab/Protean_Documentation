@@ -1,0 +1,7 @@
+{
+  "Server": "mongodb.adress.com",
+  "Port": "27017",
+  "Datenbank": "experimente_db",
+  "User": "user_rw",
+  "Passwort": "12345678"
+}

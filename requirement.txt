@@ -1,0 +1,14 @@
+tqdm
+gzip
+spacy
+pandas
+pydub
+scipy
+numpy
+pymongo
+matplotlib
+seaborn
+wordcloud
+statannotations
+openai-whisper
+pacmap
